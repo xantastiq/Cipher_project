@@ -104,12 +104,6 @@ Decrypts a Vigenère-encrypted message using the original key.
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -125,6 +119,6 @@ Contributions, issues, and feature requests are welcome!
 ## 🙋‍♂️ Author
 
 Developed by Taswar Eshraq.
-Thanking Freecodecamp for the guidance and teaching me Python.
+Thanking freecodecamp.org for the guiding me throughout the project and teaching the fundamentals of Python.
 
 Feel free to reach out or connect on GitHub!
